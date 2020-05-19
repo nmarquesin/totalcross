@@ -1,0 +1,10 @@
+@import "./variables.scss";
+
+.icon {
+  color: $text;
+  margin: 0 5px;
+}
+.icon:hover {
+  color: $text-accent;
+  transform: scale(1.2);
+}

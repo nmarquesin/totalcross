@@ -1,0 +1,57 @@
+@import "../utils/variables.scss";
+
+.container-icons {
+  font-family: $font-family-main;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  background-color: $bcg-sec;
+  padding: 100px 0 50px;
+}
+
+.icon-title {
+  font: $font-h2;
+}
+
+.icon-text {
+  font: $font-h3;
+  font-weight: 300;
+  margin: 0 auto;
+  width: 60%;
+  opacity: 0.74;
+}
+
+.container-code-image {
+  font-family: $font-family-main;
+  font-size: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  background-color: $bcg-sec;
+  padding: 50px 0 100px;
+}
+
+.image {
+  margin: 0 75px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.code-text {
+  font: $font-h3;
+  max-width: 500px;
+  padding: 20px 20px;
+}
+
+.button {
+  font: $font-h3;
+  border-radius: 20px;
+  padding: 8px 30px;
+  margin-top: 40px;
+  background-color: $bcg-main;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

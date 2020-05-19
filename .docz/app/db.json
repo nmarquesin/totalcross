@@ -1,0 +1,657 @@
+{
+  "config": {
+    "title": "TotalCross",
+    "description": "Example of how to integrate docz with gatsby as a theme",
+    "menu": [
+      "Getting Started",
+      "Components"
+    ],
+    "version": "2.0.0-rc.41",
+    "repository": "https://github.com/pedronauck/docz",
+    "native": false,
+    "themeConfig": {},
+    "separator": "-",
+    "base": "/docs/",
+    "ignore": [
+      "README.md"
+    ]
+  },
+  "entries": [
+    {
+      "key": "docs/accordion-container.md",
+      "value": {
+        "name": "Accordion",
+        "menu": "Components",
+        "id": "55d894c9eb58d978096fe23490fbe5a1",
+        "filepath": "docs/accordion-container.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/accordion-container.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-accordion-container",
+        "route": "/docs-accordion-container",
+        "headings": [
+          {
+            "slug": "accordion",
+            "depth": 1,
+            "value": "Accordion"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "attributes",
+            "depth": 3,
+            "value": "Attributes"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/aligned-labels-container.md",
+      "value": {
+        "name": "Aligned Labels",
+        "menu": "Components",
+        "id": "508fc316c2e8958eb3956fe57d8b9103",
+        "filepath": "docs/aligned-labels-container.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/aligned-labels-container.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-aligned-labels-container",
+        "route": "/docs-aligned-labels-container",
+        "headings": [
+          {
+            "slug": "aligned-labels",
+            "depth": 1,
+            "value": "Aligned Labels"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "attributes",
+            "depth": 3,
+            "value": "Attributes"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/button.mdx",
+      "value": {
+        "name": "Button",
+        "menu": "Components",
+        "id": "5be504dc81ab9dd727e24d2e197914b7",
+        "filepath": "docs/button.mdx",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/button.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-button",
+        "route": "/docs-button",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "atributos",
+            "depth": 4,
+            "value": "Atributos"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/checkbox.md",
+      "value": {
+        "name": "Check",
+        "menu": "Components",
+        "description": "Box that can be filled with a check. Build powerful forms!",
+        "id": "b4e70717cb0f3f4414383e328d73ed95",
+        "filepath": "docs/checkbox.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/checkbox.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-checkbox",
+        "route": "/docs-checkbox",
+        "headings": [
+          {
+            "slug": "check",
+            "depth": 1,
+            "value": "Check"
+          },
+          {
+            "slug": "examples",
+            "depth": 2,
+            "value": "Examples"
+          },
+          {
+            "slug": "box-and-text-with-different-colors",
+            "depth": 2,
+            "value": "Box and text with different colors"
+          },
+          {
+            "slug": "custom-left-gap",
+            "depth": 2,
+            "value": "Custom left gap"
+          },
+          {
+            "slug": "responsive-text-split",
+            "depth": 2,
+            "value": "Responsive text split"
+          },
+          {
+            "slug": "behind-the-class",
+            "depth": 2,
+            "value": "Behind the Class"
+          },
+          {
+            "slug": "attributes",
+            "depth": 3,
+            "value": "Attributes"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 2,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/combobox.md",
+      "value": {
+        "name": "ComboBox",
+        "menu": "Components",
+        "id": "b2be97476ad0764b6f22f401348c038e",
+        "filepath": "docs/combobox.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/combobox.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-combobox",
+        "route": "/docs-combobox",
+        "headings": [
+          {
+            "slug": "combobox",
+            "depth": 1,
+            "value": "ComboBox"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "attributes",
+            "depth": 3,
+            "value": "Attributes"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/dynamic-scroll.md",
+      "value": {
+        "name": "Dynamic Scroll",
+        "menu": "Components",
+        "id": "ee89d0f7c1b2e0f491d2ae040d151798",
+        "filepath": "docs/dynamic-scroll.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/dynamic-scroll.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-dynamic-scroll",
+        "route": "/docs-dynamic-scroll",
+        "headings": [
+          {
+            "slug": "dynamic-scroll",
+            "depth": 1,
+            "value": "Dynamic Scroll"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/edit.md",
+      "value": {
+        "name": "Edit",
+        "menu": "Components",
+        "id": "d2b6376d27f42ef3e4e691132c1f1c7a",
+        "filepath": "docs/edit.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/edit.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-edit",
+        "route": "/docs-edit",
+        "headings": [
+          {
+            "slug": "edit",
+            "depth": 1,
+            "value": "Edit"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "attributes",
+            "depth": 3,
+            "value": "Attributes"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/floating-button.md",
+      "value": {
+        "name": "Floating Button",
+        "menu": "Components",
+        "id": "6c32e2a39c4df55a881f228843962f78",
+        "filepath": "docs/floating-button.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/floating-button.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-floating-button",
+        "route": "/docs-floating-button",
+        "headings": [
+          {
+            "slug": "floating-button",
+            "depth": 1,
+            "value": "Floating Button"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "métodos",
+            "depth": 3,
+            "value": "Métodos"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/grid.md",
+      "value": {
+        "name": "Grid",
+        "menu": "Components",
+        "id": "460d8475301d9fa3614cb098e2e410dd",
+        "filepath": "docs/grid.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/grid.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-grid",
+        "route": "/docs-grid",
+        "headings": [
+          {
+            "slug": "grid",
+            "depth": 1,
+            "value": "Grid"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/gridcontainer.md",
+      "value": {
+        "name": "GridContainer",
+        "menu": "Components",
+        "id": "c1302e9417ccf359fc28db220e9e9668",
+        "filepath": "docs/gridcontainer.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/gridcontainer.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-gridcontainer",
+        "route": "/docs-gridcontainer",
+        "headings": [
+          {
+            "slug": "gridcontainer",
+            "depth": 1,
+            "value": "GridContainer"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "construtor",
+            "depth": 3,
+            "value": "Construtor"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/image.md",
+      "value": {
+        "name": "Image",
+        "menu": "Components",
+        "id": "16356b4145193d40902ff67b766e2107",
+        "filepath": "docs/image.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/image.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-image",
+        "route": "/docs-image",
+        "headings": [
+          {
+            "slug": "image",
+            "depth": 1,
+            "value": "Image"
+          },
+          {
+            "slug": "overview",
+            "depth": 3,
+            "value": "Overview"
+          },
+          {
+            "slug": "source-code",
+            "depth": 3,
+            "value": "Source Code"
+          },
+          {
+            "slug": "methods",
+            "depth": 3,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 3,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/index.mdx",
+      "value": {
+        "name": "Getting Started",
+        "route": "/docs",
+        "id": "73498ad0e1e62a714b08085d318f9de1",
+        "filepath": "docs/index.mdx",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/index.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          },
+          {
+            "slug": "hello-world",
+            "depth": 2,
+            "value": "Hello world"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/assets/components.md",
+      "value": {
+        "id": "5b40c76d0d8c5435bf69f925a3fba8cf",
+        "filepath": "docs/assets/components.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/docs/assets/components.md",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-assets-components",
+        "route": "/docs-assets-components",
+        "name": "Components",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "examples",
+            "depth": 1,
+            "value": "Examples"
+          },
+          {
+            "slug": "macro-property-1-in-the-check-case-box-and-text-with-different-colors",
+            "depth": 1,
+            "value": "Macro property 1 (in the Check case  Box and text with different colors )"
+          },
+          {
+            "slug": "macro-property-2-in-the-check-case-custom-left-gap",
+            "depth": 1,
+            "value": "Macro property 2 (in the Check case  Custom left gap )"
+          },
+          {
+            "slug": "macro-property-3-in-the-check-case-responsive-text-split",
+            "depth": 1,
+            "value": "Macro property 3 (in the Check case  Responsive text split )"
+          },
+          {
+            "slug": "behind-the-class",
+            "depth": 1,
+            "value": "Behind the Class"
+          },
+          {
+            "slug": "attributes",
+            "depth": 2,
+            "value": "Attributes"
+          },
+          {
+            "slug": "methods",
+            "depth": 2,
+            "value": "Methods"
+          },
+          {
+            "slug": "references",
+            "depth": 1,
+            "value": "References"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/Test.md",
+      "value": {
+        "name": "Test",
+        "menu": "Components",
+        "id": "49fb45ea10617a2af20ab3293d18ea87",
+        "filepath": "src/pages/Test.md",
+        "fullpath": "/Users/nrisbakk/Projects/newTC/totalcross7-docz-with-gatsby/src/pages/Test.md",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-test",
+        "route": "/src-pages-test",
+        "headings": [
+          {
+            "slug": "getting-started-test",
+            "depth": 1,
+            "value": "Getting Started test"
+          },
+          {
+            "slug": "hello-world-test",
+            "depth": 2,
+            "value": "Hello world test"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/pages/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "IndexPage",
+          "methods": [],
+          "actualName": "IndexPage"
+        }
+      ]
+    },
+    {
+      "key": "src/gatsby-theme-docz/components/Header/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Header",
+          "methods": [],
+          "actualName": "Header"
+        }
+      ]
+    },
+    {
+      "key": "src/gatsby-theme-docz/components/Logo/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Logo",
+          "methods": [],
+          "actualName": "Logo"
+        }
+      ]
+    },
+    {
+      "key": "src/components/reasons-home.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Reasons",
+          "methods": [],
+          "actualName": "Reasons"
+        }
+      ]
+    }
+  ]
+}

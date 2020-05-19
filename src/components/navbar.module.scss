@@ -1,0 +1,19 @@
+@import "../utils/variables.scss";
+
+.navbar-container {
+  background-color: $bcg-main;
+  color: $text;
+}
+
+.nav-item {
+  font: $font-h4;
+  text-transform: uppercase;
+  color: $text;
+  padding: 0 10px;
+}
+
+.nav-item:hover {
+  text-decoration: none;
+  color: $text-accent;
+  transform: scale(1.1);
+}

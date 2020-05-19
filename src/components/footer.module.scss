@@ -1,0 +1,42 @@
+@import "../utils/variables.scss";
+
+.container {
+  background-color: $bcg-main;
+  color: $text;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer-nav-group {
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.footer-nav-subtitle {
+  font: $font-h3;
+  border-bottom: solid $text 1px;
+}
+
+.footer-nav-items {
+  list-style: none;
+  padding-left: 0;
+  padding-top: 10px;
+}
+
+.footer-nav-item {
+  font: $font-h4;
+  color: $text;
+}
+.footer-nav-item:hover {
+  text-decoration: none;
+  color: $green;
+}

@@ -1,0 +1,102 @@
+@import "../utils/variables.scss";
+
+.cases-container {
+  text-align: center;
+  padding-bottom: 200px;
+  background-color: $bcg-sec;
+}
+
+.cases-title {
+  font: $font-h2;
+  color: $red;
+  padding: 120px 5px 0;
+}
+
+.cases-subtitle {
+  font: $font-h3;
+  padding: 0 5px;
+  margin-bottom: 50px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+}
+
+.card-container {
+  background-color: $bcg-main;
+  border-radius: 20px;
+  padding: 20px;
+  color: $text;
+  margin: 20px;
+  max-width: 300px;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+}
+
+.card-image {
+  margin: 0 30px 20px 0;
+}
+
+.card-title {
+  font: $font-h3;
+}
+
+.card-text {
+  font: $body;
+  text-align: left;
+}
+
+.call-to-action-container {
+  display: flex;
+  text-align: center;
+  padding-bottom: 200px;
+  background-color: $bcg-sec;
+  justify-content: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.call-to-action-card {
+  max-width: 866px;
+  border-top: solid $bcg-main 15px;
+  border-radius: 15px;
+  box-shadow: 0 4px 5px grey;
+  font-weight: 700;
+  color: $red;
+}
+
+.button-area {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-bottom: 50px;
+  align-items: center;
+}
+
+.button-area-text {
+  font: $font-h2;
+  padding: 0 0 10px 64px;
+  text-align: left;
+}
+
+.button {
+  font: $font-h3;
+  color: $text;
+  background-color: $bcg-main;
+  border-radius: 20px;
+  width: 200px;
+  margin: auto 64px;
+}
+
+.cases-icon {
+  padding: 40px 0 0 64px;
+  text-align: left;
+  color: $bcg-main;
+  font-size: 30px;
+}
