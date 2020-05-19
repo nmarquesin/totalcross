@@ -28,9 +28,8 @@ jobs:
       run: |
         npm ci
         npm run build --if-present
-      env: 
-      GATSBY_FIREBASE: ${{ secrets.GATSBY_FIREBASE }}
-    - run: npm test
+      env:
+        GATSBY_FIREBASE: ${{ secrets.GATSBY_FIREBASE }}
       
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
