@@ -4,6 +4,7 @@ module.exports = {
     description: `Open Source GUI Creator For Embedded, Mobile... Everything!!`,
     author: `NATHALIE RISBAKK AND VICTORIA INGRID`,
   },
+  pathPrefix: "/totalcross",
   plugins: [
     "gatsby-theme-docz",
     `gatsby-transformer-sharp`,
