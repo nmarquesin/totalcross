@@ -4,9 +4,9 @@ import * as firebase from "firebase";
 import CrossyOpenWings from "../utils/crossy-open-wings";
 
 import styles from "./contact-form.module.scss";
-// import firebaseConfig from "../utils/firebaseConfig";
+import firebaseConfig from "../utils/firebaseConfig";
 
-const firebaseConfig = process.env.GATSBY_FIREBASE;
+// const firebaseConfig = process.env.GATSBY_FIREBASE;
 
 firebase.initializeApp(firebaseConfig);
 
