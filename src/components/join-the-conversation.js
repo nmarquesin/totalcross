@@ -1,6 +1,5 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons";
 import { faTelegram } from "@fortawesome/free-brands-svg-icons";
 import { faYoutube } from "@fortawesome/free-brands-svg-icons";
@@ -11,7 +10,6 @@ import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 import styles from "./our-events.module.scss";
 
-const snGit = <FontAwesomeIcon className={styles.icon} icon={faGithub} />;
 const snTwt = <FontAwesomeIcon className={styles.icon} icon={faTwitter} />;
 const snTel = <FontAwesomeIcon className={styles.icon} icon={faTelegram} />;
 const snYou = <FontAwesomeIcon className={styles.icon} icon={faYoutube} />;

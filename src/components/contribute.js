@@ -1,7 +1,5 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faTwitter } from "@fortawesome/free-brands-svg-icons";
-import { faTelegram } from "@fortawesome/free-brands-svg-icons";
 import { faCog } from "@fortawesome/free-solid-svg-icons";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import { faFileAlt } from "@fortawesome/free-solid-svg-icons";
@@ -9,8 +7,6 @@ import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 import styles from "./our-events.module.scss";
 
-const snTwt = <FontAwesomeIcon className={styles.icon} icon={faTwitter} />;
-const snTel = <FontAwesomeIcon className={styles.icon} icon={faTelegram} />;
 const cog = <FontAwesomeIcon className={styles.icon} icon={faCog} />;
 const arrow = <FontAwesomeIcon className={styles.icon} icon={faArrowRight} />;
 const code = <FontAwesomeIcon className={styles.icon} icon={faCode} />;

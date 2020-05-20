@@ -40,6 +40,7 @@ const Footer = () => {
                   className={styles.footerNavItem}
                   href="https://github.com/TotalCross/totalcross"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Contribute
                 </a>
@@ -54,6 +55,7 @@ const Footer = () => {
                   className={styles.footerNavItem}
                   href="https://github.com/TotalCross/totalcross"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   GitHub
                 </a>
@@ -63,6 +65,7 @@ const Footer = () => {
                   className={styles.footerNavItem}
                   href="https://medium.com/totalcross-community"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Medium
                 </a>
@@ -95,7 +98,9 @@ const Footer = () => {
       <div style={{ fontSize: "small" }}>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://www.gatsbyjs.org" target="_blank" rel="noreferrer">
+          Gatsby
+        </a>
       </div>
     </footer>
   );
